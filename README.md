@@ -42,13 +42,9 @@ This project will run on **NodeJs** using **MongoDB** as database. I had tried t
 
 ## Features
 
--   Basic Authentication (Register/Login with hashed password)
--   Account confirmation with 4 (Changeable) digit OTP.
 -   Email helper ready just import and use.
--   JWT Tokens, make requests with a token after login with `Authorization` header with value `Bearer yourToken` where `yourToken` will be returned in Login response.
 -   Pre-defined response structures with proper status codes.
 -   Included CORS.
--    **Book** example with **CRUD** operations.
 -   Validations added.
 -   Included API collection for Postman.
 -   Light-weight project.
